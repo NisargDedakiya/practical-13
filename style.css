@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    width: 400px;
+    margin: 50px auto;
+}
+
+input[type="text"], input[type="email"], input[type="password"] {
+    width: 100%;
+    padding: 8px;
+    margin: 4px 0;
+}
+
+button {
+    padding: 10px 20px;
+}
+
+.error {
+    color: red;
+}
